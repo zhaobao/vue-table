@@ -79,6 +79,7 @@ export default {
 ## More Detail
 - about clickTrEvent
     clickTrEvent is the callback when you click tr callback, it will exec callback with two arguments: event and the row data
+    
     ```
     clickTrEvent: function(e, data) {
         // e, is the target click element
@@ -87,6 +88,7 @@ export default {
     ```
 - about api
     api is the backend server address, Vue-table will use Http GET to fetch data
+    
     ```
     props: {
         api: {
@@ -97,6 +99,7 @@ export default {
     ```
 - about refresh
     refresh is sig, when you want Vue-table to refresh, you can toggle this sig
+    
     ```
     forceUpdate: function() {
         this.refresh = !this.refresh
@@ -111,6 +114,7 @@ export default {
     - width       // String, column width, eg: 20%
     - sortable    // Boolean, if or not support sort
     - render      // Function, this is where you can custom the td content
+    
     ```
     {
         field: 'id',
@@ -130,6 +134,7 @@ export default {
 
 If you want to test the demo locally, you should has your own server serve on http://127.0.0.1:8089
 The demo response data is:
+
 ```
 {
   "actions": [
