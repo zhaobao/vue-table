@@ -2,7 +2,7 @@
 
 ## What is Vue-table
 
-Vue-table is Vue component based on Vue, Bootstrap and Ramda, right now, it only support server-side.
+vue-table is Vue component based on Vue, Bootstrap and Ramda.
 
 ## Feature
 
@@ -128,7 +128,7 @@ export default {
     ```
 
 ## Dependence
--[Ramda](http://ramdajs.com/), it's awesome
+[Ramda](http://ramdajs.com/), it's awesome
 
 ## Notice
 
