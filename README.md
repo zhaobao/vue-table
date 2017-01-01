@@ -4,6 +4,8 @@
 
 vue-table is Vue component based on Vue, Bootstrap and Ramda.
 
+> vue-table only works only with Vue 2.0
+
 ## Feature
 
 - pagination
