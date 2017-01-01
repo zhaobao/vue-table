@@ -13,6 +13,7 @@ vue-table is Vue component based on Vue, Bootstrap and Ramda.
 - custom TD render
 - page size change
 - server-side
+- use Vue2.0
 
 ## Quick Look
 
