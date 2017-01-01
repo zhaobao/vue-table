@@ -186,5 +186,5 @@ npm run dev
 
 ## Liscense
 
-MIT
+![MIT](./mit.svg)
 
