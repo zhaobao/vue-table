@@ -186,5 +186,5 @@ npm run dev
 
 ## Liscense
 
-<p><img src="./mit.svg" /></p>
+![MIT](https://img.shields.io/npm/l/vue.svg)
 
